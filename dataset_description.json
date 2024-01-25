@@ -1,10 +1,14 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Sebastian Dresbach",
+        "Laurentius (Renzo) Huber",
+        "Omer Faruk Gulban",
+        "Alessandra Pizzuti",
+        "Robert Trampel",
+        "Dimo Ivanov",
+        "Nikolaus Weiskopf",
+        "Rainer Goebel"
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
