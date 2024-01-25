@@ -12,11 +12,7 @@
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "doi:10.18112/openneuro.ds004943.v1.0.1",
-    "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
-    ],
+    "Funding": [],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
     "Name": "Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans",
