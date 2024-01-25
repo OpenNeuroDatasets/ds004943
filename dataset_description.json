@@ -13,9 +13,11 @@
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
+        "RG is partly funded by the European Research Council Grant ERC-2010-AdG269853 and Human Brain Project Grant FP7-ICT-2013-FET-F/604102",
+        "OFG is funded by Brain Innovation",
+        "NW has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP7/2007-2013) / ERC grant agreement n° 616905; from the European Union's Horizon 2020 research and innovation programme under the grant agreement No 681094; from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – project no. 347592254 (WE 5046/4-2); from the Federal Ministry of Education and Research (BMBF) under support code 01ED2210",
+        "AP is funded by the EU-project H2020-860563 euSNN and Brain Innovation",
+        "Renzo Huber was supported by the NIMH Intramural Research Program (#ZIAMH002783) and by NWO VENI project 016.Veni.198.032 during this project"
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
